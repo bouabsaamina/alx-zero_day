@@ -1,1 +1,1 @@
-git_pull
+echo "git_pull" > up_to_date
